@@ -1,3 +1,5 @@
-<h1>Landing page Mike-Ecommerce</h1>
-<span>E uma landing page de uma loja virtual de roupas e acessorios</span>
-![e-commerce](https://github.com/user-attachments/assets/8c0f1b43-eee5-4278-accd-f1b50bd7f5ff)
+<h1>Lanidng page de E-commerce</h1>
+<p>Esse projeto foi feito pelo youtube bedimcode desenvolvido, com intuido de apresenta as habilidades adquridas utilizado linguagens como: HTML5 e CSS3 e javascript.
+
+<br>
+<h4>🚧Projeto README 🚀 Em construção...🚧</h4>
